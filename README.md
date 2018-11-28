@@ -21,14 +21,14 @@ Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download),
 
 Fork this repo by clicking on the fork button on the top of this page.
 
-<img width="500" src="assets/fork.png" alt="fork this repository" style = "display: inline;"  />
+<img width="300" src="assets/fork.png" alt="fork this repository" style = "display: inline;"  />
 <br/>
 
 This will create of copy of this repository in your account and you will be redirected to this version of the repo.
 
 You now need to get the URL for your repo.  Click "Clone or download" and copy the URL in the box.
 
-<img width="500" src="assets/rstudio-gh-clone.png" alt="clone the repo" style = "display: inline;"  />
+<img width="300" src="assets/rstudio-gh-clone.png" alt="clone the repo" style = "display: inline;"  />
 <br/>
 
 
@@ -46,7 +46,7 @@ Finally, choose where you want the cloned repo to be stored by clicking the "Bro
 
 Once you have finished, click "Create Project" to clone the repo and set up the project.
 
-<img width="500" src="assets/rstudio-clone.png" alt="Git"  style = "display: inline;"  />
+<img width="300" src="assets/rstudio-clone.png" alt="Git"  style = "display: inline;"  />
 <br/>
 
 The repo will now be cloned into whichever folder you specified.
@@ -55,13 +55,13 @@ The repo will now be cloned into whichever folder you specified.
 
 In the "Git" tab in the top-right panel, click the "new branch" button.
 
-<img width="500" src="assets/rstudio-new-branch-button.png" alt="Create a new branch"  style = "display: inline;"  />
+<img width="300" src="assets/rstudio-new-branch-button.png" alt="Create a new branch"  style = "display: inline;"  />
 <br/>
 
 
 Name your branch "add-your-name", for example: "add-nic-crane"
 
-<img width="500" src="assets/rstudio-new-branch-button2.png" alt="name your branch"  style = "display: inline;"  />
+<img width="300" src="assets/rstudio-new-branch-button2.png" alt="name your branch"  style = "display: inline;"  />
 <br/>
 
 Make sure that "Sync branch with remote" is checked and click "Create".  You may be asked to enter your GitHub username and password.
@@ -72,13 +72,13 @@ Now open the `Contributors.md` file in RStudio and add your name to it, then sav
 
 You will see that the file has an 'M' next to it.  Check the box next to it and then click "Commit".
 
-<img width="500" src="assets/rstudio-add.png" alt="name your branch"   style = "display: inline;"  />
+<img width="300" src="assets/rstudio-add.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 
 You'll see a diff file showing the changes you've made to the file.  Add a commit message - a summary of changes you've made, and then click "Commit".  A box will pop up to confirm the commit; click "close".
 
-<img width="500" src="assets/rstudio-commit-message.png" alt="name your branch"   style = "display: inline;"  />
+<img width="300" src="assets/rstudio-commit-message.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 ## Push changes to GitHub
@@ -86,13 +86,13 @@ You'll see a diff file showing the changes you've made to the file.  Add a commi
 Congratulations, you've committed all the changes to your local copy of your branch of your fork of first-contributions.  Now click "Push" to sync your commit to the remote repo.
 
 
-<img width="500" src="assets/rstudio-push1.png" alt="name your branch"   style = "display: inline;"  />
+<img width="300" src="assets/rstudio-push1.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 You'll see a box like this if your changes have been pushed successfully.  Click "Close".
 
 
-<img width="500" src="assets/rstudio-push2.png" alt="name your branch"   style = "display: inline;"  />
+<img width="300" src="assets/rstudio-push2.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 
