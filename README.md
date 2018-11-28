@@ -55,6 +55,8 @@ The repo will now be cloned into whichever folder you specified.
 
 In the "Git" tab in the top-right panel, click the "new branch" button.
 
+<img width="500" src="assets/git-tab-location.jpg" alt="Git tab"  style = "display: inline;"  />
+<br/>
 <img width="300" src="assets/rstudio-new-branch-button.png" alt="Create a new branch"  style = "display: inline;"  />
 <br/>
 
@@ -86,7 +88,7 @@ You'll see a diff file showing the changes you've made to the file.  Add a commi
 Congratulations, you've committed all the changes to your local copy of your branch of your fork of first-contributions.  Now click "Push" to sync your commit to the remote repo.
 
 
-<img width="300" src="assets/rstudio-push1.png" alt="name your branch"   style = "display: inline;"  />
+<img width="500" src="assets/rstudio-push1.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 You'll see a box like this if your changes have been pushed successfully.  Click "Close".
@@ -100,11 +102,13 @@ You'll see a box like this if your changes have been pushed successfully.  Click
 
 If you go to your repository on github, you'll see a "Compare & pull request" button. Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request"   />
+<img width="500"  style = "display: inline;" src="assets/compare-and-pull.png" alt="create a pull request"   />
+<br/>
 
 Make sure that you are comparing across forks.  On the left should be the master branch of the original repo, and on the right should be the new branch you've made in your repo.  Once you've got the correct options selected and have written a quick summary of the changes made, submit the pull request by clicking "Create pull request".
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request"   />
+<img width="500" style = "display: inline;" src="assets/submit-pull-request.png" alt="submit pull request"   />
+<br/>
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged!
 
