@@ -3,7 +3,8 @@
 |<img alt="RStudio" src="assets/rstudio-logo.png" width="300">|RStudio Edition|
 |---|---|
 
-This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo.  Check it out for instructions using other tools and language translations.
+This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo (and is not officially affiliated with RStudio).  Check out the original repo for instructions using other tools and language translations.
+
 
 ## Intro
 
