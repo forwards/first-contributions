@@ -5,15 +5,32 @@
 
 This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo.  Check it out for instructions using other tools and language translations.
 
+## Intro
+
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
+## What this will teach you
 
-## RStudio
+* How to fork a repo
+* How to make a branch
+* How to submit a pull request to the original repo
+
+## What this won't teach you 
+
+* How to build R packages
+* Open source etiquette
+
+## Assumptions
+
+* You are comfortable using git with RStudio.  If you want to improve your knowledge, I'd recommend working through ['Happy Git and GitHub for the useR'](http://happygitwithr.com/) first.
+* You have a GitHub account
+
+## RStudio and git
 
 Before you get started, you should make sure that you have [git](https://git-scm.com/downloads) installed and your identity configured by running the 
-[relevant commands](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_identity) using Git BASH or other command line tool of your choice.
+[relevant commands](http://happygitwithr.com/hello-git.html).
 
 Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download), install and open it.
 
@@ -80,7 +97,7 @@ You will see that the file has an 'M' next to it.  Check the box next to it and 
 
 You'll see a diff file showing the changes you've made to the file.  Add a commit message - a summary of changes you've made, and then click "Commit".  A box will pop up to confirm the commit; click "close".
 
-<img width="300" src="assets/rstudio-commit-message.png" alt="name your branch"   style = "display: inline;"  />
+<img width="400" src="assets/rstudio-commit-message.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 ## Push changes to GitHub
@@ -94,7 +111,7 @@ Congratulations, you've committed all the changes to your local copy of your bra
 You'll see a box like this if your changes have been pushed successfully.  Click "Close".
 
 
-<img width="300" src="assets/rstudio-push2.png" alt="name your branch"   style = "display: inline;"  />
+<img width="400" src="assets/rstudio-push2.png" alt="name your branch"   style = "display: inline;"  />
 <br/>
 
 
@@ -111,8 +128,6 @@ Make sure that you are comparing across forks.  On the left should be the master
 <br/>
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged!
-
-## Where to go from here?
 
 Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
