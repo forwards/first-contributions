@@ -25,15 +25,10 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Assumptions
 
-* You are comfortable using git with RStudio.  If you want to improve your knowledge, I'd recommend working through ['Happy Git and GitHub for the useR'](http://happygitwithr.com/) first.
 * You have a GitHub account
-
-## RStudio and git
-
-Before you get started, you should make sure that you have [git](https://git-scm.com/downloads) installed and your identity configured by running the 
-[relevant commands](http://happygitwithr.com/hello-git.html).
-
-Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download), install and open it.
+* You have [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed.
+* You have [git](https://git-scm.com/downloads) installed and your [identity configured](http://happygitwithr.com/hello-git.html). If you can push to GitHub, you've already done this :)
+* You are comfortable using git with RStudio.  If you want to improve your knowledge, I'd recommend working through ['Happy Git and GitHub for the useR'](http://happygitwithr.com/) first.
 
 ## Fork this repository
 
