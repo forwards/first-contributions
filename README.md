@@ -5,7 +5,6 @@
 
 This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo (and is not officially affiliated with RStudio).  Check out the original repo for instructions using other tools and language translations.
 
-
 ## Intro
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -25,10 +24,14 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Assumptions
 
+I have made a number of assumptions in writing this guide:
+
 * You have a GitHub account
 * You have [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed.
 * You have [git](https://git-scm.com/downloads) installed and your [identity configured](http://happygitwithr.com/hello-git.html). If you can push to GitHub, you've already done this :)
 * You are comfortable using git with RStudio.  If you want to improve your knowledge, I'd recommend working through ['Happy Git and GitHub for the useR'](http://happygitwithr.com/) first.
+
+OK, let's get started!
 
 ## Fork this repository
 
