@@ -10192,4 +10192,4 @@ Rohan Das
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
 - [Catherine Blatter](https://github.com/cathblatter)
-- [Nicole Thompson-Gonzalez] (https://github.com/Gavago)
+- [Nic Thompson-Gonzalez] (https://github.com/Gavago)
