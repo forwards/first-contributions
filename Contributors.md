@@ -10194,3 +10194,4 @@ Rohan Das
 - [Catherine Blatter](https://github.com/cathblatter)
 - [Kevin Stachelek](https://github.com/whtns)
 - [Sono Shah](https://github.com/sonoshah)
+- [Eric Scott](https://github.com/Aariq)
