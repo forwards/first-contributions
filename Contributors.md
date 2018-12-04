@@ -10195,3 +10195,4 @@ Rohan Das
 - [Nic Thompson-Gonzalez] (https://github.com/Gavago)
 - [Kevin Stachelek](https://github.com/whtns)
 - [Sono Shah](https://github.com/sonoshah)
+- [Eric Scott](https://github.com/Aariq)
