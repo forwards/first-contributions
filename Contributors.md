@@ -10192,6 +10192,7 @@ Rohan Das
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
 - [Catherine Blatter](https://github.com/cathblatter)
+- [Nic Thompson-Gonzalez] (https://github.com/Gavago)
 - [Kevin Stachelek](https://github.com/whtns)
 - [Sono Shah](https://github.com/sonoshah)
 - [Eric Scott](https://github.com/Aariq)
