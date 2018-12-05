@@ -10196,3 +10196,4 @@ Rohan Das
 - [Kevin Stachelek](https://github.com/whtns)
 - [Sono Shah](https://github.com/sonoshah)
 - [Eric Scott](https://github.com/Aariq)
+- [Shannon Pileggi](https://github.com/shannonpileggi)
