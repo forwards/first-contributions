@@ -10198,4 +10198,6 @@ Rohan Das
 - [Shannon Pileggi](https://github.com/shannonpileggi)
 - [Serdar Balci](https://github.com/sbalci)
 - [Kevin Stachelek](https://github.com/whtns)
+- [Mark Cherrie](https://github.com/markocherrie)
 - [Brendan Palmer](https://github.com/bapalmer)
+
