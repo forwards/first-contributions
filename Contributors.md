@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
 - [Sarah Phillips] (https://github.com/snphillips)
@@ -58,6 +58,7 @@
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
 - [Tyler Stahl](https://github.com/volanttyler)
+- [Nambikai] (https://github.com/nambikai)
 - [Pranav Mathur](https://github.com/noobieArtist)
 - [Divyamani Anand](https://github.com/commitedlearner)
 - [John mantas](https://github.com/john-mantas)
