@@ -6479,6 +6479,7 @@ Rohan Das
 - [Kelly Tompkins](https://github.com/ktompky)
 - [Ishan Rai](https://github.com/ishanrai05)
 - [Talan Erickson](https://github.com/v01dMage)
+- [Gaurav Singh](https://github.com/saintpopo)
 - [Venkata Vamsy](https://github.com/Vaaaaa)
 - [Daniel Padrta](https://github.com/dpadrta)
 - [Kyle Roberts](https://github.com/lekyle)
