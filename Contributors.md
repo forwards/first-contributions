@@ -15,6 +15,7 @@
 - [Timothy](https://github.com/timtop)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
+- [stevescode](https://github.com/stevescode)
 - [Jack Holsgrove)(https://github.com/jackholsgrove)
 - [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
