@@ -13,6 +13,7 @@
 - [Scot Newbury](https://github.com/scotnewbury)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
+- [yash](https://github.com/YashAgrawal048)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
 - [stevescode](https://github.com/stevescode)
