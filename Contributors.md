@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
 - [Sarah Phillips] (https://github.com/snphillips)
@@ -10213,3 +10213,4 @@ Rohan Das
 - [Bhagya Kumaranayake](https://github.com/kabsgithub)
 - [Sachin Muthumala](http://github.com/sachintsm)
 - [Aditya Singh](https://github.com/adityanjr)
+- [Ezekiel Adebayo](https://github.com/gbganalyst)
