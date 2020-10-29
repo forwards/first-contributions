@@ -520,7 +520,7 @@
 - [Tristan Marechaux] (https://github.com/marechaux)
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Balamurugan](https://github.com/dillbala)
-  Mrityunjay Kumar
+- Mrityunjay Kumar
 - [chickencoder](https://github.com/chickencoder)
 - [sanmay8005](https://github.com/sanmay8005)
 - [Sunali](https://github.com/sunalii)
