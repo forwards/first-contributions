@@ -477,7 +477,8 @@
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 - [Mayank](https://github.com/mayank2652)
 - [Saranya Nukala](https://github.com/saranyanukala)
-- [Michael McDonell](https://github.com/Cre8tiveKel} -[Akshay Avinash](https://github.com/akshay11298}
+- [Michael McDonell](https://github.com/Cre8tiveKel} 
+- [Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
 - [Arseny Poga](https://github.com/arsenypoga)
@@ -1139,7 +1140,8 @@
 - [Wander Souza](https://github.com/WanderDouglas)
 - [Kevin Scully](https://github.com/scull1916)
   -Shivam
-- [Dennis Lin](https://github.com/denni5lin) -[Bhishm Juneja](https://github.com/bhishm7)
+- [Dennis Lin](https://github.com/denni5lin) 
+- [Bhishm Juneja](https://github.com/bhishm7)
 - [Farooq Ch](https://github.com/farooqch11)
 - [Fredrik Linde](https://github.com/flinde)
 - [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
