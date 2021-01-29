@@ -1,5 +1,5 @@
 # Contributors
-
+- [Emma Rand](https://github.com/3mmaRand)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
 - [Sarah Phillips](https://github.com/snphillips)
