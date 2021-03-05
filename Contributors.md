@@ -1,4 +1,5 @@
 # Contributors
+
 - [Emma Rand](https://github.com/3mmaRand)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
@@ -476,7 +477,7 @@
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 - [Mayank](https://github.com/mayank2652)
 - [Saranya Nukala](https://github.com/saranyanukala)
-- [Michael McDonell](https://github.com/Cre8tiveKel) 
+- [Michael McDonell](https://github.com/Cre8tiveKel)
 - [Akshay Avinash](https://github.com/akshay11298)
 - [Abhishek-verma](https://github.com/abhishek-verma
 - Madhavik Agarwa
@@ -1137,7 +1138,7 @@
 - [Wander Souza](https://github.com/WanderDouglas)
 - [Kevin Scully](https://github.com/scull1916)
 - Shivam
-- [Dennis Lin](https://github.com/denni5lin) 
+- [Dennis Lin](https://github.com/denni5lin)
 - [Bhishm Juneja](https://github.com/bhishm7)
 - [Farooq Ch](https://github.com/farooqch11)
 - [Fredrik Linde](https://github.com/flinde)
@@ -10217,3 +10218,4 @@
 - [Ankita_Mandal](https://github.com/GoGi2712)
 - [Tim_Stephens](https://github.com/tim-stephens)
 - [Babak](https://github.com/datababak)
+- [Sean Cassiere](https://github.com/SeanCassiere)
