@@ -64,6 +64,7 @@
 - [Alex K.](https://github.com/gnarlex)
 - [Tyler Stahl](https://github.com/volanttyler)
 - [Nambikai](https://github.com/nambikai)
+- [Deepanshu kumar](https://github.com/deepanshu1334)
 - [Pranav Mathur](https://github.com/noobieArtist)
 - [Divyamani Anand](https://github.com/commitedlearner)
 - [John mantas](https://github.com/john-mantas)
