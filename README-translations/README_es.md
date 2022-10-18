@@ -104,12 +104,12 @@ Ahora abra el archivo `Contributors.md` en RStudio y agregue su nombre, luego gu
 
 Verá que el archivo tiene una 'M' al lado. Marque la casilla junto a él y luego haga clic en "Confirmar".
 
-<img width="300" src="../assets/rstudio-add.png" alt="name your branch"   style = "display: inline;"  />
+<img width="300" src="../assets/rstudio-add.png" alt="commit button"   style = "display: inline;"  />
 <br/>
 
 Verá un archivo de diferencias que muestra los cambios que ha realizado en el archivo. Agregue un mensaje de confirmación, un resumen de los cambios que ha realizado, y luego haga clic en "Confirmar". Aparecerá un cuadro para confirmar la confirmación; haga clic en "cerrar".
 
-<img width="400" src="../assets/rstudio-commit-message.png" alt="name your branch"   style = "display: inline;"  />
+<img width="400" src="../assets/rstudio-commit-message.png" alt="commit dialog"   style = "display: inline;"  />
 <br/>
 
 ---
@@ -118,12 +118,12 @@ Verá un archivo de diferencias que muestra los cambios que ha realizado en el a
 
 Felicitaciones, ha comprometido todos los cambios en su copia local de su rama de su bifurcación de primeras contribuciones. Ahora haga clic en "Push" para sincronizar su confirmación con el repositorio remoto.
 
-<img width="500" src="../assets/rstudio-push1.png" alt="name your branch"   style = "display: inline;"  />
+<img width="500" src="../assets/rstudio-push1.png" alt="push button"   style = "display: inline;"  />
 <br/>
 
 Verá un cuadro como este si sus cambios se han realizado correctamente. Haga clic en "Cerrar".
 
-<img width="400" src="../assets/rstudio-push2.png" alt="name your branch"   style = "display: inline;"  />
+<img width="400" src="../assets/rstudio-push2.png" alt="git output log"   style = "display: inline;"  />
 <br/>
 
 ---

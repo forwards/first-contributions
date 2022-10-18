@@ -88,22 +88,24 @@ Stellen Sie sicher, dass „Zweig mit Remote synchronisieren“ aktiviert ist un
 
 Sie werden sehen, dass neben der Datei ein „M“ steht. Aktivieren Sie das Kontrollkästchen daneben und klicken Sie dann auf „Commit“.
 
-<img width="300" src="../assets/rstudio-add.png" alt="name your branch"   style = "display: inline;"  />
+<img width="300" src="../assets/rstudio-add.png" alt="commit button"   style = "display: inline;"  />
 <br/>
 
 Sie sehen eine Diff-Datei mit den Änderungen, die Sie an der Datei vorgenommen haben. Fügen Sie eine Commit-Nachricht hinzu – eine Zusammenfassung der von Ihnen vorgenommenen Änderungen – und klicken Sie dann auf „Commit“. Ein Kästchen erscheint, um die Übergabe zu bestätigen; klicken Sie auf "Schließen".
 
+<img width="400" src="assets/rstudio-commit-message.png" alt="commit dialog"   style = "display: inline;"  />
+<br/>
 
 ## Pushen Sie Änderungen an GitHub
 
 Herzlichen Glückwunsch, Sie haben alle Änderungen an Ihrer lokalen Kopie Ihres Zweigs Ihres Fork of first-contributions festgeschrieben. Klicken Sie nun auf „Push“, um Ihren Commit mit dem Remote-Repo zu synchronisieren.
 
-<img width="400" src="../assets/rstudio-commit-message.png" alt="name your branch"   style = "display: inline;"  />
+<img width="500" src="assets/rstudio-push1.png" alt="push button"   style = "display: inline;"  />
 <br/>
 
 Sie sehen ein Kästchen wie dieses, wenn Ihre Änderungen erfolgreich übertragen wurden. Klicken Sie auf „Schließen“.
 
-<img width="400" src="../assets/rstudio-push2.png" alt="name your branch"   style = "display: inline;"  />
+<img width="400" src="../assets/rstudio-push2.png" alt="git output log"   style = "display: inline;"  />
 <br/>
 
 
