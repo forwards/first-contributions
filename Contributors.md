@@ -752,6 +752,7 @@
 - [Rafael Molina](https://github.com/RafaGrey)
 - [billyderringer](https://github.com/billyderringer)
 - [Grom](https://github.com/gromms)
+- [Minh Nguyen](https://github.com/minhducnguyen26)
 - [matt011](https://github.com/matt011)
 - [lakshan](https://github.com/Lakshangit)
 - [shivanshu1086](https://github.com/shivanshu1086)
@@ -5240,7 +5241,7 @@
 - [Hari Kuduva](https://github.com/sriharikuduva)
 - [Kinsey Favre](https://github.com/kinstalinist)
 - [Taylor Prescott](https://github.com/taycott3)
-  Rohan Das
+- Rohan Das
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)

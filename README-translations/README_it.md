@@ -1,5 +1,3 @@
-
-
 # Primo Contributo
 
 Questo repository è una versione ridotta, ridotta e personalizzata per
@@ -77,16 +75,15 @@ configurare il progetto.
 Nella scheda "Git" nel pannello in alto a destra, fai clic sul pulsante
 "nuovo ramo".
 
-
-<img src="assets/git-tab-location.jpg" alt="Git tab" width="500" style="display: inline;"/>
+<img src="../assets/git-tab-location.jpg" alt="Git tab" width="500" style="display: inline;"/>
 <br/>
 
-<img src="assets/rstudio-new-branch-button.png" alt="Create a new branch" width="300" style="display: inline;"/>
+<img src="../assets/rstudio-new-branch-button.png" alt="Create a new branch" width="300" style="display: inline;"/>
 <br/>
 
 Assegna un nome al tuo ramo "aggiungi il tuo nome"
 
-<img src="./assets/rstudio-new-branch-button2.png" alt="name your branch" width="300" style="display: inline;"/>
+<img src="../assets/rstudio-new-branch-button2.png" alt="name your branch" width="300" style="display: inline;"/>
 <br/>
 
 Assicurati che "Sincronizza ramo con telecomando" sia selezionato e fai
@@ -101,7 +98,7 @@ quindi salva il file.
 Vedrai che il file ha una "M" accanto ad esso. Seleziona la casella
 accanto ad essa e quindi fai clic su "Commit".
 
-<img src="./assets/rstudio-add.png" alt="name your branch" width="300" style="display: inline;"/>
+<img src="../assets/rstudio-add.png" alt="commit button" width="300" style="display: inline;"/>
 <br/>
 
 Vedrai un file diff che mostra le modifiche che hai apportato al file.
@@ -109,7 +106,7 @@ Aggiungi un messaggio di commit: un riepilogo delle modifiche che hai
 apportato, quindi fai clic su "Commit". Apparirà una finestra per
 confermare il commit; clicca su "chiudi".
 
-<img src="./assets/rstudio-commit-message.png" alt="name your branch" width="400" style="display: inline;"/>
+<img src="../assets/rstudio-commit-message.png" alt="commit dialog" width="400" style="display: inline;"/>
 <br/>
 
 ## Invia le modifiche a GitHub
@@ -118,13 +115,13 @@ Congratulazioni, hai eseguito il commit di tutte le modifiche alla tua
 copia locale del tuo ramo del tuo fork dei primi contributi. Ora fai
 clic su "Push" per sincronizzare il tuo commit con il repository remoto.
 
-<img src="./assets/rstudio-push1.png" alt="name your branch" width="500" style="display: inline;"/>
+<img src="../assets/rstudio-push1.png" alt="push button" width="500" style="display: inline;"/>
 <br/>
 
 Vedrai una casella come questa se le modifiche sono state inviate
 correttamente. Fare clic su "Chiudi".
 
-<img src="./assets/rstudio-push2.png" alt="name your branch" width="400" style="display: inline;"/>
+<img src="./assets/rstudio-push2.png" alt="git output log" width="400" style="display: inline;"/>
 <br/>
 
 ## Invia le modifiche per la revisione
@@ -132,7 +129,7 @@ correttamente. Fare clic su "Chiudi".
 Se vai al tuo repository su github, vedrai un pulsante "Confronta ed
 esegui richiesta". Fare clic su quel pulsante.
 
-<img src="./assets/compare-and-pull.png" alt="create a pull request" width="500" style="display: inline;"/>
+<img src="../assets/compare-and-pull.png" alt="create a pull request" width="500" style="display: inline;"/>
 <br/>
 
 Assicurati di confrontare i fork. A sinistra dovrebbe esserci il ramo
@@ -141,12 +138,12 @@ ramo che hai creato nel tuo repository. Dopo aver selezionato le opzioni
 corrette e aver scritto un rapido riepilogo delle modifiche apportate,
 invia la richiesta pull facendo clic su "Crea richiesta pull".
 
-<img src="./assets/submit-pull-request.png" alt="submit pull request" width="500" style="display: inline;"/>
+<img src="../assets/submit-pull-request.png" alt="submit pull request" width="500" style="display: inline;"/>
 <br/>
 
 Presto unirò tutte le tue modifiche nel ramo principale di questo
 progetto. Riceverai un'e-mail di notifica una volta unite le modifiche!
 
 Congratulazioni! Hai appena completato il flusso di lavoro standard
-*fork -\> clone -\> modifica -\> PR* che incontrerai spesso come
+_fork -\> clone -\> modifica -\> PR_ che incontrerai spesso come
 collaboratore!
