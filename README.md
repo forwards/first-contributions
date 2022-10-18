@@ -2,18 +2,14 @@
 
 | <img alt="RStudio" src="assets/rstudio-logo.png" width="300"> | RStudio Edition |
 | ------------------------------------------------------------- | --------------- |
+<br>
+View this README in another language:
 
-This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo (and is not officially affiliated with RStudio). Check out the original repo for instructions using other tools and language translations.
+[Deutsch](https://github.com/forwards/first-contributions/blob/master/Languages/README_de.md) |
+[italiano](https://github.com/forwards/first-contributions/blob/master/Languages/README_it.md) |
+[español](https://github.com/forwards/first-contributions/blob/master/Languages/README_es.md)
 
----
-
-## Before You Start
-
-You can choose you preferred language to learn more about RStudio and this project.
-
--   [German](https://github.com/forwards/first-contributions/blob/master/Languages/German.md)
--   [Italian](https://github.com/forwards/first-contributions/blob/master/Languages/Italian.md)
--   [Spanish](https://github.com/forwards/first-contributions/blob/master/Languages/Spanish.md)
+This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo (and is not officially affiliated with RStudio). Check out the original repo for instructions using other tools.
 
 ---
 
