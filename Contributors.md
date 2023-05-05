@@ -1,5 +1,5 @@
 # Contributors
-
+- [Harshil Bambhroliya](https://github.com/harshil048)
 - [jasbirajrana](https://github.com/jasbirrajrana)
 - [Emma Rand](https://github.com/3mmaRand)
 - [Ivan Boldyrev](https://github.com/iboldurev)
