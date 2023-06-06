@@ -62,6 +62,7 @@
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
+- [Ch Satya Savith](https://github.com/ChSatyaSavith)
 - [Tyler Stahl](https://github.com/volanttyler)
 - [Nambikai](https://github.com/nambikai)
 - [Deepanshu kumar](https://github.com/deepanshu1334)
