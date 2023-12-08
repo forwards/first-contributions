@@ -1,6 +1,7 @@
 # Contributors
 
 - [jasbirajrana](https://github.com/jasbirrajrana)
+- [Arya Sharma](https://github.com/Aryasharma001)
 - [Emma Rand](https://github.com/3mmaRand)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
