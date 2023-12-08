@@ -1,4 +1,6 @@
 # Contributors
+
+- [txellext](https://github.com/txellext)
 - [Harshil Bambhroliya](https://github.com/harshil048)
 - [jasbirajrana](https://github.com/jasbirrajrana)
 - [Arya Sharma](https://github.com/Aryasharma001)
