@@ -9,6 +9,7 @@
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
+- [colonia duck](https://github.com/colonia-duck)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [luciade](https://github.com/luciade)
 - [Kevin Dunne](https://github.com/sdevkev)
