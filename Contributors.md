@@ -1,6 +1,7 @@
 # Contributors
-
+- [Harshil Bambhroliya](https://github.com/harshil048)
 - [jasbirajrana](https://github.com/jasbirrajrana)
+- [Arya Sharma](https://github.com/Aryasharma001)
 - [Emma Rand](https://github.com/3mmaRand)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
@@ -8,6 +9,7 @@
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
+- [colonia duck](https://github.com/colonia-duck)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [luciade](https://github.com/luciade)
 - [Kevin Dunne](https://github.com/sdevkev)
@@ -10226,3 +10228,5 @@
 - [Sophie Breitbart](https://github.com/sbreitbart)
 - [Woodspock](https://github.com/woodspock)
 - [IwannaToCode](https://github.com/iwannatocode)
+- [Chinmoy Nath](https://github.com/Chinmoynath)
+- [Samprati Vyawahare](https://github.com/Sampratii)
