@@ -5,9 +5,9 @@
 <br>
 View this README in another language:
 
-[Deutsch](https://github.com/forwards/first-contributions/blob/master/Languages/README_de.md) |
-[italiano](https://github.com/forwards/first-contributions/blob/master/Languages/README_it.md) |
-[español](https://github.com/forwards/first-contributions/blob/master/Languages/README_es.md)
+[Deutsch](./README-translations/README_de.md) |
+[italiano](./README-translations/README_it.md) |
+[español](./README-translations/README_es.md)
 
 This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing [first contributions](https://github.com/firstcontributions/first-contributions) repo (and is not officially affiliated with RStudio). Check out the original repo for instructions using other tools.
 

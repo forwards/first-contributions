@@ -1,7 +1,9 @@
 # Contributors
 
 - [txellext](https://github.com/txellext)
+- [Harshil Bambhroliya](https://github.com/harshil048)
 - [jasbirajrana](https://github.com/jasbirrajrana)
+- [Arya Sharma](https://github.com/Aryasharma001)
 - [Emma Rand](https://github.com/3mmaRand)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Gianni Scolaro](https://github.com/giannidsp)
@@ -9,6 +11,7 @@
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
+- [colonia duck](https://github.com/colonia-duck)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [luciade](https://github.com/luciade)
 - [Kevin Dunne](https://github.com/sdevkev)
@@ -63,6 +66,7 @@
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
+- [Ch Satya Savith](https://github.com/ChSatyaSavith)
 - [Tyler Stahl](https://github.com/volanttyler)
 - [Nambikai](https://github.com/nambikai)
 - [Deepanshu kumar](https://github.com/deepanshu1334)
@@ -10226,3 +10230,6 @@
 - [Evelyn Greeves](https://github.com/evelyngreeves)
 - [Sophie Breitbart](https://github.com/sbreitbart)
 - [Woodspock](https://github.com/woodspock)
+- [IwannaToCode](https://github.com/iwannatocode)
+- [Chinmoy Nath](https://github.com/Chinmoynath)
+- [Samprati Vyawahare](https://github.com/Sampratii)
