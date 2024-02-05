@@ -1,4 +1,4 @@
-# First Contributions
+First Contributions
 
 | <img alt="RStudio" src="assets/rstudio-logo.png" width="300"> | RStudio Edition |
 | ------------------------------------------------------------- | --------------- |
@@ -13,7 +13,7 @@ This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of t
 
 ---
 
-## Introduction
+Introduction
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -21,7 +21,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ---
 
-## What this will teach you
+What this will teach you
 
 -   How to fork a repo
 -   How to make a branch
@@ -29,14 +29,14 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ---
 
-## What this won't teach you
+What this won't teach you
 
 -   How to build R packages
 -   Open source etiquette
 
 ---
 
-## Assumptions
+Assumptions
 
 I have made a number of assumptions in writing this guide:
 
@@ -49,7 +49,7 @@ OK, let's get started!
 
 ---
 
-## Fork this repository
+Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
 
@@ -67,7 +67,7 @@ You now need to get the URL for your repo. Click "Clone or download" and copy th
 
 ---
 
-## Create a new project
+Create a new project
 
 In RStudio, go to File -> New Project
 
@@ -88,7 +88,7 @@ The repo will now be cloned into whichever folder you specified.
 
 ---
 
-## Create a branch
+Create a branch
 
 In the "Git" tab in the top-right panel, click the "new branch" button.
 
@@ -106,7 +106,7 @@ Make sure that "Sync branch with remote" is checked and click "Create". You may 
 
 ---
 
-## Make necessary changes and commit those changes
+Make necessary changes and commit those changes
 
 Now open the `Contributors.md` file in RStudio and add your name to it, then save the file.
 
@@ -122,7 +122,7 @@ You'll see a diff file showing the changes you've made to the file. Add a commit
 
 ---
 
-## Push changes to GitHub
+Push changes to GitHub
 
 Congratulations, you've committed all the changes to your local copy of your branch of your fork of first-contributions. Now click "Push" to sync your commit to the remote repo.
 
@@ -136,7 +136,7 @@ You'll see a box like this if your changes have been pushed successfully. Click 
 
 ---
 
-## Submit your changes for review
+Submit your changes for review
 
 If you go to your repository on github, you'll see a "Compare & pull request" button. Click on that button.
 
