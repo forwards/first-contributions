@@ -1,4 +1,4 @@
-# First Contributions
+First Contributions
 
 | <img alt="RStudio" src="assets/rstudio-logo.png" width="300"> | RStudio Edition |
 | ------------------------------------------------------------- | --------------- |
