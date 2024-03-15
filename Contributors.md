@@ -1,5 +1,6 @@
 # Contributors
 
+- [Incognito Dark](https://github.com/ncgntdrk)
 - [Hein Htet](https://github.com/JamesCartar)
 - [txellext](https://github.com/txellext)
 - [Harshil Bambhroliya](https://github.com/harshil048)
