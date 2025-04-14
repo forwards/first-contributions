@@ -332,6 +332,7 @@
 - [Tanish Kapur](https://github.com/tan33sh)
 - [Philippe Targino](https://github.com/ptargino)
 - [Bryan Endres](https://github.com/bendres97)
+- [Richard Callaby](https://github.com/rcallaby)
 - [QrBe](https://github.com/QrBe)
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
