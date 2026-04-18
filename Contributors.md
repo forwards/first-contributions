@@ -10235,3 +10235,4 @@
 - [IwannaToCode](https://github.com/iwannatocode)
 - [Chinmoy Nath](https://github.com/Chinmoynath)
 - [Samprati Vyawahare](https://github.com/Sampratii)
+- [Lucas Vieira Felisberto](https://github.com/lucasvieirafelisberto)
